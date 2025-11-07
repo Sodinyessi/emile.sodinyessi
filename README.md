@@ -25,7 +25,8 @@ README.md — Portfolio GitHub d'Emile Sodinyessi
 
 
 
-Mes domaines d'intérêt :
+
+**Mes domaines d'intérêt :**
 - 📈 Modélisation statistique avancée (régression, survie, modèles mixtes, classification latente)  
 - 🧪 Analyse de données observationnelles et de cohortes longitudinales  
 - ⚙️ Pipelines reproductibles et automatisés sous **SAS**, **R**, **Python** et **SQL**  
