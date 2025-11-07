@@ -6,10 +6,12 @@ README.md — Portfolio GitHub d'Emile Sodinyessi
 
 ### Biostatisticien & Ingénieur Data Scientist – Santé Publique | RWE | Recherche Clinique.
 
-📍 France
+📍 France  
+📞 +33 6 44 05 80 18  
 📧 [emilesodin@gmail.com](mailto:emilesodin@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/emile-sodinyessi-217399203/)  
 🐙 [GitHub](https://github.com/Sodinyessi/emile.sodinyessi)
+
 
 ---
 
@@ -146,5 +148,5 @@ Mes domaines d'intérêt :
 
 ---
 
-⭐️ *Si mes projets vous intéressent, n'hésitez pas à me contacter ou à collaborer sur un projet open-source lié à la recherche clinique ou à la data science en santé ! [+33 6 44 05 80 18]*
+⭐️ *Si mes projets vous intéressent, n'hésitez pas à me contacter ou à collaborer sur un projet open-source lié à la recherche clinique ou à la data science en santé !*
 
