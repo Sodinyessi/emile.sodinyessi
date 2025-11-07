@@ -43,7 +43,7 @@ Mes domaines d'intérêt :
 ## 🧪 Expériences professionnelles
 
 ### 🔹 **INSERM – CERPOP - SaMBA (Toulouse, France) & ADERA (Bordeaux, France)**  
-**Biostatisticien – Ingénieur Data Scientist** | *Depuis 2023*  
+**Biostatisticien – Ingénieur Data Scientist**  
 - Modélisation de la réponse clinique et virologique dans les cohortes IeDEA (Afrique de l'Ouest).  
 - Analyses de mortalité selon l'âge et trajectoires sous traitements antirétroviraux.  
 - Développement de pipelines d'analyse automatisés (SAS, R, Python).  
@@ -61,11 +61,11 @@ Mes domaines d'intérêt :
 - Extraction, structuration et suivi de données DHIS2.  
 - Mise en place de tableaux de bord et indicateurs de performance.  
 
-### 🔹 **Ministère de l'Enseignement Secondaire, de la Formation Technique et de l'Insertion des Jeunes (Bénin)**  
-**Professeur de Mathématiques du Secondaire**  
-📍 Kétou & Dangbo, Bénin  
+### 🔹 **Ministère de l'Enseignement Secondaire et de la Formation Technique (Bénin)**  
+**Professeur de Mathématiques**  
+📍 Porto-Novo, Ifangni, Kétou & Dangbo.  
 
-- 📚 Enseignement des mathématiques à différents niveaux (2nde D, 1ère D, Terminale D, 3e MC) : géométrie, algèbre, fonctions, calcul intégral, probabilités, statistiques, logique, arithmétique et dénombrement.  
+- 📚 Enseignement des mathématiques à différents niveaux (2nde D, 1ère D, Terminale D, 3e MC, 4e) : géométrie, algèbre, fonctions, calcul intégral, probabilités, statistiques, logique, arithmétique et dénombrement.  
 - 🧠 Mise en œuvre d'une pédagogie différenciée et vulgarisation de concepts abstraits, avec une forte capacité à transmettre des raisonnements mathématiques complexes de manière claire et progressive.  
 - 📈 Initiation des élèves à la pensée scientifique, à l'analyse de données et aux premiers outils de modélisation mathématique.  
 - 🎓 Animation d'ateliers de mathématiques axés sur la résolution de problèmes, la pensée critique et l'autonomie.  
@@ -76,17 +76,17 @@ Mes domaines d'intérêt :
 
 ## 🎓 Formation académique
 
-🎓 **Master Mathématiques et Applications – Statistique**  
-*Université de Strasbourg, France (2021–2023)*  
+🎓 **Master : Mathématiques et Applications – Statistique**  
+*Université de Strasbourg, France* (2021–2023)
 
-🎓 **Master Recherche Probabilités et Statistique**  
-*Université d'Abomey-Calavi – IMSP, Bénin (2017–2019)*  
+🎓 **Master : Probabilités et Statistique**  
+*Université d'Abomey-Calavi – IMSP, Bénin* (2017–2019)
 
 🎓 **Licence Mathématiques et Informatique**  
-*École Normale Supérieure Natitingou, Bénin (2012–2015)*  
+*École Normale Supérieure Natitingou, Bénin* (2012–2015) 
 
-🎓 **Baccalauréat scientifique : Série D [Mathématique - Biologie et Géologie]**  
-*Collège d'Enseignement Général de Tchaada, Ifangni, Plateau, Bénin (2012)*  
+🎓 **Baccalauréat scientifique : Série D (Mathématique - Biologie et Géologie)**  
+*Collège d'Enseignement Général de Tchaada, Ifangni, Plateau, Bénin* (2012)
 
 ---
 
