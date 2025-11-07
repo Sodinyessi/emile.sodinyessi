@@ -1,11 +1,9 @@
 # emile.sodinyessi
-PORTFOLIO DATA &amp; BIOSTATISTICIAN 
 
 <!--
 README.md — Portfolio GitHub d'Emile Sodinyessi
 -->
 
-# 👨‍🔬 Emile Noudehouenou Sodinyessi  
 ### Biostatisticien & Ingénieur Data Scientist – Santé Publique | RWE | Recherche Clinique.
 
 📍 France & partout ailleurs 
@@ -15,10 +13,17 @@ README.md — Portfolio GitHub d'Emile Sodinyessi
 
 ---
 
-## 🧭 À propos de moi
+## 🧭 À propos de moi  
 
-Je suis **biostatisticien et ingénieur data scientist**, spécialisé dans l'analyse de **données de santé**, la **modélisation statistique avancée** et la **valorisation de données de vie réelle (RWE)**.  
-J'évolue à l'interface entre **statistique**, **programmation** et **santé publique**, avec une approche centrée sur la rigueur méthodologique, la reproductibilité et la clarté des livrables.
+<div align="center">
+
+Passionné par la donnée au service de la santé, je suis **biostatisticien et ingénieur data scientist** spécialisé dans la **modélisation statistique avancée** et l’exploitation de **données de vie réelle (RWE)**.  
+
+Mon expertise se situe à la croisée de la **statistique**, de la **programmation** et de la **santé publique**, où j’apporte une approche à la fois **rigoureuse**, **reproductible** et **orientée impact**.  
+
+J’ai à cœur de transformer des ensembles de données complexes en **indicateurs clairs et exploitables**, pour **éclairer la décision clinique**, **renforcer la recherche scientifique** et **améliorer les politiques de santé**.  
+
+</div>
 
 Mes domaines d'intérêt :
 - 📈 Modélisation statistique avancée (régression, survie, modèles mixtes, classification latente)  
