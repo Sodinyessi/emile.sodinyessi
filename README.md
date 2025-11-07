@@ -6,16 +6,16 @@ README.md — Portfolio GitHub d’Emile Sodinyessi
 -->
 
 # 👨‍🔬 Emile Sodinyessi  
-### *Biostatisticien & Ingénieur Data Scientist – Santé Publique | RWE | Recherche Clinique*
+### Biostatisticien & Ingénieur Data Scientist – Santé Publique | RWE | Recherche Clinique.
 
-📍 France  
+📍 France & partout ailleurs 
 📧 [emilesodin@gmail.com](mailto:emilesodin@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/Emile%20Sodinyessi)  
-🐙 [GitHub](https://github.com/EmileSodinyessi)
+🔗 [LinkedIn](https://www.linkedin.com/in/emile-sodinyessi-217399203/)  
+🐙 [GitHub](https://github.com/Sodinyessi/emile.sodinyessi)
 
 ---
 
-## 🧭 À propos
+## 🧭 À propos de moi
 
 Je suis **biostatisticien et ingénieur data scientist**, spécialisé dans l’analyse de **données de santé**, la **modélisation statistique avancée** et la **valorisation de données de vie réelle (RWE)**.  
 J’évolue à l’interface entre **statistique**, **programmation** et **santé publique**, avec une approche centrée sur la rigueur méthodologique, la reproductibilité et la clarté des livrables.
@@ -48,12 +48,18 @@ Mes domaines d’intérêt :
 - Analyses de mortalité selon l’âge et trajectoires sous traitements antirétroviraux.  
 - Développement de pipelines d’analyse automatisés (SAS, R, Python).  
 - Production de SAP et livrables scientifiques pour équipes cliniques et chercheurs internationaux.
+- ANRS - EPIKIDS : Modélisation de l'ampleur de l'épidémie du VIH pédiatrique et de la cascade de soins pour optimiser les politiques de santé en Côte d'Ivoire, au Cameroun et au Togo.
 
 ### 🔹 **ANSES (Ploufragan, France)**  
-**Chargé d’études statistiques** | *2023*  
+**Chargé d’études statistiques**  
 - Analyses typologiques multidimensionnelles sur les systèmes d’élevage porcins.  
 - Classification non supervisée (CAH, k-means) et intégration multiblocs.  
 - Reporting automatisé avec R Markdown et visualisations scientifiques.
+
+### 🔹 **Hôpital de la Zone d’Allada (Bénin)**  
+**Responsable Data & Analyste** | *2020–2021*  
+- Extraction, structuration et suivi de données DHIS2.  
+- Mise en place de tableaux de bord et indicateurs de performance.  
 
 
 ---
@@ -68,6 +74,9 @@ Mes domaines d’intérêt :
 
 🎓 **Licence Mathématiques et Informatique**  
 *École Normale Supérieure Natitingou, Bénin (2012–2015)*  
+
+🎓 **Baccalauréat scientifique : Série D [Mathématique - Biologie et Géologie]**  
+*Collège d'Enseignement Général de Tchaada, Ifangni, Plateau, Bénin (2012)*  
 
 ---
 
@@ -89,7 +98,7 @@ Mes domaines d’intérêt :
 | **Langages** | SAS · R · Python · SQL |
 | **Versioning** | Git / GitHub |
 | **Documentation** | R Markdown · LaTeX |
-| **IDE** | RStudio · JupyterLab · VS Code |
+| **IDE** | RStudio · JupyterLab · Spyder |
 | **Collaboration** | Teams · Slack · Zotero |
 
 ---
@@ -109,5 +118,5 @@ Mes domaines d’intérêt :
 
 ---
 
-⭐️ *Si mes projets vous intéressent, n’hésitez pas à me contacter ou à collaborer sur un projet open-source lié à la recherche clinique ou à la data science en santé !*
+⭐️ *Si mes projets vous intéressent, n’hésitez pas à me contacter ou à collaborer sur un projet open-source lié à la recherche clinique ou à la data science en santé ! [+33 6 44 05 80 18]*
 
