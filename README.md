@@ -4,8 +4,11 @@
 README.md — Portfolio GitHub d'Emile Sodinyessi
 -->
 
-### Biostatisticien & Ingénieur Data Scientist – Santé Publique | RWE | Recherche Clinique.
+---
+### Biostatisticien & Ingénieur Data Scientist – Santé Publique | Recherche Clinique | RWE.
 
+---
+## Informations 
 📍 France  
 📞 +33 6 44 05 80 18  
 📧 [emilesodin@gmail.com](mailto:emilesodin@gmail.com)  
@@ -17,14 +20,14 @@ README.md — Portfolio GitHub d'Emile Sodinyessi
 
 ## 🧭 À propos de moi  
 
-💡 Passionné par la donnée au service de la santé, je suis **biostatisticien et ingénieur data scientist** spécialisé dans la **modélisation statistique avancée** et l’exploitation de **données de vie réelle (RWE)**.  
+💡 Passionné par la donnée au service de la santé, je suis **biostatisticien et ingénieur data scientist** spécialisé dans la **modélisation statistique avancée** et l'exploitation de **données de vie réelle (RWE)**.  
 
-📊 Mon expertise se situe à la croisée de la **statistique**, de la **programmation** et de la **santé publique**, où j’apporte une approche à la fois **rigoureuse**, **reproductible** et **orientée impact**.  
+📊 Mon expertise se situe à la croisée de la **statistique**, de la **programmation** et de la **santé publique**, où j'apporte une approche à la fois **rigoureuse**, **reproductible** et **orientée impact**.  
 
-🎯 J’ai à cœur de transformer des ensembles de données complexes en **indicateurs clairs et exploitables**, pour **éclairer la décision clinique**, **renforcer la recherche scientifique** et **améliorer les politiques de santé**.  
+🎯 J'ai à cœur de transformer des ensembles de données complexes en **indicateurs clairs et exploitables**, pour **éclairer la décision clinique**, **renforcer la recherche scientifique** et **améliorer les politiques de santé**.  
 
 
-
+---
 
 **Mes domaines d'intérêt :**
 - 📈 Modélisation statistique avancée (régression, survie, modèles mixtes, classification latente)  
@@ -143,9 +146,17 @@ README.md — Portfolio GitHub d'Emile Sodinyessi
 - **Clarté & collaboration interdisciplinaire**  
 - **Innovation méthodologique & curiosité analytique**
 
-> *“La statistique est la grammaire de la science.” — Karl Pearson*
+> *"La statistique est la grammaire de la science." — Karl Pearson*
+
+> *"Les données racontent le monde, il suffit de savoir les écouter." — Hans Rosling*
+
+> *"Les données ne sont pas que des chiffres ; elles racontent une histoire qu'il faut interpréter." — Cathy O'Neil*
+
+
 
 ---
 
-⭐️ *Si mes projets vous intéressent, n'hésitez pas à me contacter ou à collaborer sur un projet open-source lié à la recherche clinique ou à la data science en santé !*
+⭐️ **Si mes projets vous intéressent, n'hésitez pas à me contacter ou à collaborer sur un projet open-source lié à la recherche clinique ou à la data science en santé !**
+
+---
 
