@@ -17,15 +17,13 @@ README.md — Portfolio GitHub d'Emile Sodinyessi
 
 ## 🧭 À propos de moi  
 
-<div align="center">
+
 
 Passionné par la donnée au service de la santé, je suis **biostatisticien et ingénieur data scientist** spécialisé dans la **modélisation statistique avancée** et l’exploitation de **données de vie réelle (RWE)**.  
 
 Mon expertise se situe à la croisée de la **statistique**, de la **programmation** et de la **santé publique**, où j’apporte une approche à la fois **rigoureuse**, **reproductible** et **orientée impact**.  
 
 J’ai à cœur de transformer des ensembles de données complexes en **indicateurs clairs et exploitables**, pour **éclairer la décision clinique**, **renforcer la recherche scientifique** et **améliorer les politiques de santé**.  
-
-</div>
 
 Mes domaines d'intérêt :
 - 📈 Modélisation statistique avancée (régression, survie, modèles mixtes, classification latente)  
