@@ -8,7 +8,9 @@ README.md — Portfolio GitHub d'Emile Sodinyessi
 
 
 <h3 align="center">
-Biostatisticien & Ingénieur Data Scientist – Santé Publique | Recherche Clinique | RWE
+Biostatisticien & Ingénieur Data Scientist
+  
+Santé Publique – Recherche Clinique – Données de cohorte, observationelles et de vie réelle.
 </h3>
 
 <p align="center">
@@ -116,10 +118,14 @@ Biostatisticien & Ingénieur Data Scientist – Santé Publique | Recherche Clin
 > _"Les données ne sont pas que des chiffres ; elles racontent une histoire qu'il faut interpréter." — Cathy O'Neil_
 
 ---
+<h3 align="center">
+⭐️ Intéressé par une collaboration ?
+</h3>
 
-⭐️ **Intéressé par une collaboration ?**  
-Je suis ouvert aux projets en Biostatistique, Recherche clinique en Data Science et Mathématiques.  
-📩 [Contactez-moi](mailto:emilesodin@gmail.com)
+  Je suis ouvert aux projets en Biostatistique, Recherche clinique en Data Science et Mathématiques.📩 📩 [Contactez-moi](mailto:emilesodin@gmail.com)
+
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1976D2,100:42A5F5&height=120&section=footer" />
