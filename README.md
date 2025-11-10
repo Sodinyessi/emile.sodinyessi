@@ -3,7 +3,9 @@ README.md — Portfolio GitHub d'Emile Sodinyessi
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1976D2&height=180&section=header&text=Emile%20Sodinyessi&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rectGradient&color=0:0D47A1,100:1976D2&height=180&section=header&text=%20%20%20&fontSize=0&fontColor=ffffff" width="0" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/waves.svg" width="40" height="40" style="vertical-align:middle;margin-right:10px;">
+  <span style="font-size:42px;color:#ffffff;vertical-align:middle;">Emile Sodinyessi</span>
 </p>
 
 
@@ -85,8 +87,6 @@ Biostatisticien & Ingénieur Data Scientist – Santé Publique | Recherche Clin
 
 ### 🔹 **Ministère de l'Enseignement Secondaire et de la Formation Technique (Bénin)**  
 **Professeur de Mathématiques**  
-📍 Porto-Novo, Ifangni, Kétou & Dangbo.  
-
 - 📚 Enseignement des mathématiques à différents niveaux (2nde D, 1ère D, Terminale D, 3e MC, 4e).  
 - 🧠 Pédagogie différenciée, vulgarisation de concepts abstraits et transmission claire de raisonnements complexes.  
 - 🎓 Animation d'ateliers de mathématiques axés sur la résolution de problèmes, la pensée critique et l'autonomie.  
@@ -101,7 +101,7 @@ Biostatisticien & Ingénieur Data Scientist – Santé Publique | Recherche Clin
 🎓 **Licence Mathématiques et Informatique** – *ENS Natitingou (Bénin)*  
 
 🎖️ **Python Scientifique** – Analyse de données génomiques et d'images  
-🎖️ **R et Modèles de Machine Learning** – Pipelines analytiques reproductibles  
+🎖️ **R avancé et Modèles de Machine Learning** – Pipelines analytiques reproductibles  
 🎖️ **SAS : de l'analyse à la production du rapport** – Procédures, SQL, macros, ODS  
 
 ---
@@ -113,14 +113,14 @@ Biostatisticien & Ingénieur Data Scientist – Santé Publique | Recherche Clin
 ---
 
 ## 💬 Valeurs & philosophie
-> _“La statistique est la grammaire de la science." — Karl Pearson_  
-> _“Les données racontent le monde, il suffit de savoir les écouter." — Hans Rosling_  
-> _“Les données ne sont pas que des chiffres ; elles racontent une histoire qu'il faut interpréter." — Cathy O'Neil_
+> _"La statistique est la grammaire de la science." — Karl Pearson_  
+> _"Les données racontent le monde, il suffit de savoir les écouter." — Hans Rosling_  
+> _"Les données ne sont pas que des chiffres ; elles racontent une histoire qu'il faut interpréter." — Cathy O'Neil_
 
 ---
 
 ⭐️ **Intéressé par une collaboration ?**  
-Je suis ouvert aux projets open-source, RWE et recherche clinique en data science.  
+Je suis ouvert aux projets en Biostatistique, Recherche clinique en Data Science et Mathématiques.  
 📩 [Contactez-moi](mailto:emilesodin@gmail.com)
 
 <p align="center">
