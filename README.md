@@ -3,8 +3,9 @@ README.md — Portfolio GitHub d'Emile Sodinyessi
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rectGradient&color=0:0D47A1,100:1976D2&height=180&section=header&text=Emile%20Sodinyessi&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1976D2&height=180&section=header&text=Emile%20Sodinyessi&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 <h3 align="center">
 Biostatisticien & Ingénieur Data Scientist – Santé Publique | Recherche Clinique | RWE
