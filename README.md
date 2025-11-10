@@ -3,9 +3,7 @@ README.md — Portfolio GitHub d'Emile Sodinyessi
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rectGradient&color=0:0D47A1,100:1976D2&height=180&section=header&text=%20%20%20&fontSize=0&fontColor=ffffff" width="0" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/waves.svg" width="40" height="40" style="vertical-align:middle;margin-right:10px;">
-  <span style="font-size:42px;color:#ffffff;vertical-align:middle;">Emile Sodinyessi</span>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1976D2&height=180&section=header&text=Emile%20Sodinyessi&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 
