@@ -2,9 +2,8 @@
 README.md — Portfolio GitHub d'Emile Sodinyessi
 -->
 
-<!-- Bannière -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D47A1,100:1976D2&height=180&section=header&text=Emile%20Sodinyessi&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rectGradient&color=0:0D47A1,100:1976D2&height=180&section=header&text=Emile%20Sodinyessi&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">
@@ -22,7 +21,7 @@ Biostatisticien & Ingénieur Data Scientist – Santé Publique | Recherche Clin
 
 ## 🧭 À propos de moi  
 
-💡 Passionné par la donnée au service de la santé, je suis **biostatisticien et ingénieur data scientist** spécialisé dans la **modélisation statistique avancée** et l'exploitation de **données de vie réelle (RWE)**.  
+💡 Passionné par la donnée au service de la santé, je suis **biostatisticien et ingénieur data scientist** spécialisé dans la **modélisation statistique avancée** et l'exploitation de **données de cohorte, observationnelles et de vie réelle**.  
 
 📊 Mon expertise se situe à la croisée de la **statistique**, de la **programmation** et de la **santé publique**, où j'apporte une approche à la fois **rigoureuse**, **reproductible** et **orientée impact**.  
 
