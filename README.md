@@ -122,7 +122,7 @@ Santé Publique – Recherche Clinique – Données de cohorte, observationelles
 ⭐️ Intéressé par une collaboration ?
 </h3>
 
-  Je suis ouvert aux projets en Biostatistique, Recherche clinique en Data Science et Mathématiques.📩 📩 [Contactez-moi](mailto:emilesodin@gmail.com)
+  Je suis ouvert aux projets en Biostatistique, Recherche clinique en Data Science et Mathématiques.📩 [Contactez-moi](mailto:emilesodin@gmail.com)
 
 
 
