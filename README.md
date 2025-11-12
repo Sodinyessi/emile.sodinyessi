@@ -81,7 +81,7 @@ Santé Publique – Recherche Clinique – Données de cohorte, observationelles
 - Reporting automatisé avec R Markdown et visualisations scientifiques.
 
 ### 🔹 **Hôpital de la Zone d'Allada (Bénin)**  
-**Responsable Data & Analyste**
+**Responsable de données & Statisticien**
 - Extraction, structuration et suivi de données DHIS2.  
 - Mise en place de tableaux de bord et indicateurs de performance.  
 
