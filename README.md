@@ -55,12 +55,12 @@ Santé Publique – Recherche Clinique – Données de cohorte, observationelles
 ## 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sodinyessi&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sodinyessi&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sodinyessi&show_icons=true&theme=tokyonight&hide_border=true" height="100" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sodinyessi&theme=tokyonight&hide_border=true" height="100" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodinyessi&layout=compact&theme=tokyonight&hide_border=true" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodinyessi&layout=compact&theme=tokyonight&hide_border=true" height="100" />
 </p>
 
 ---
