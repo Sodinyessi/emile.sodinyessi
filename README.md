@@ -2,15 +2,15 @@
 README.md — Portfolio GitHub d'Emile Sodinyessi
 -->
 
+<!-- Bannière -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1976D2&height=180&section=header&text=Emile%20Sodinyessi&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-
 <h3 align="center">
-Biostatisticien & Ingénieur Data Scientist
-  
-Santé Publique – Recherche Clinique – Données de cohorte, observationelles et de vie réelle.
+Biostatisticien & Ingénieur Data Scientist  
+<br>
+Santé Publique – Recherche Clinique – Cohortes – Données Observationnelles
 </h3>
 
 <p align="center">
@@ -22,70 +22,150 @@ Santé Publique – Recherche Clinique – Données de cohorte, observationelles
 
 ---
 
-## 🧭 À propos de moi  
+# 🧭 À propos de moi  
 
-💡 Passionné par la donnée au service de la santé, je suis **biostatisticien et ingénieur data scientist** spécialisé dans la **modélisation statistique avancée** et l'exploitation de **données de cohorte, observationnelles et de vie réelle**.  
+💡 Passionné par la donnée au service de la santé, je suis **biostatisticien et ingénieur data scientist** spécialisé dans la **modélisation statistique avancée**, les **cohortes internationales** et la **valorisation de données de santé en général**.
 
-📊 Mon expertise se situe à la croisée de la **statistique**, de la **programmation** et de la **santé publique**, où j'apporte une approche à la fois **rigoureuse**, **reproductible** et **orientée impact**.  
+📊 Mon expertise se situe à la croisée de la **statistique**, de la **programmation** et de la **santé publique**, avec une approche **rigoureuse**, **reproductible**, **transparente** et orientée **impact sanitaire**.
 
-🎯 J'ai à cœur de transformer des ensembles de données complexes en **indicateurs clairs et exploitables**, pour **éclairer la décision clinique**, **renforcer la recherche scientifique** et **améliorer les politiques de santé**.  
-
----
-
-### 🧠 Mes domaines d'intérêt
-- 📈 Modélisation statistique avancée (régression, survie, modèles mixtes, classification latente)  
-- 🧪 Analyse de données observationnelles et de cohortes longitudinales  
-- ⚙️ Pipelines reproductibles et automatisés sous **SAS**, **R**, **Python** et **SQL**  
-- 📊 Production de **rapports dynamiques et visualisations interactives** (R Markdown, Shiny, LaTeX)  
+🎯 J’aide les équipes cliniques, chercheurs et institutions à transformer des données complexes en **informations exploitables**, **indicateurs stratégiques**, et **évidence scientifique robuste**.
 
 ---
 
-## 🧰 Compétences techniques
+# 🧠 Domaines d’intérêt
+- 📈 **Modélisation avancée** : régressions, survie, modèles mixtes, classification latente (flexmix, randomLCA), GBTM  
+- 🧪 **Données observationnelles** & cohortes longitudinales  
+- ⚙️ **Pipelines reproductibles** : SAS • R • Python • SQL  
+- 📊 **Visualisations & reporting** : R Markdown, Shiny, LaTeX  
+
+---
+
+# 🧰 Compétences techniques
 
 | 🧩 Domaine | 🧠 Compétences clés |
 |-------------|--------------------|
-| **Statistique & Modélisation** | Régressions (logistique, Poisson, Cox), Machine Learning, Modèles mixtes, classification latente (flexmix, randomLCA), imputations multiples, validation croisée |
-| **Outils & Langages** | ![SAS](https://img.shields.io/badge/SAS-blue?logo=sas&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
-| **Reproductibilité & Reporting** | R Markdown, LaTeX, automatisation d'analyses, gestion bibliographique (Zotero) |
-| **Gestion de données** | Nettoyage, fusion, harmonisation interrégionale, gestion de bases longitudinales complexes |
-| **Communication scientifique** | Rédaction de SAP, rapports clairs, vulgarisation statistique, collaboration avec équipes cliniques |
+| **Statistique & Modélisation** | Cox, Poisson/quasi-Poisson, modèles mixtes, flexmix, randomLCA, GBTM, imputation, validation croisée |
+| **Langages & Outils** | ![SAS](https://img.shields.io/badge/SAS-1E90FF?logo=sas&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
+| **Reproductibilité** | R Markdown, LaTeX, Shiny, pipelines automatisés |
+| **Gestion de données** | Nettoyage, fusion, harmonisation multi-pays |
+| **Communication scientifique** | SAP, tableaux, figures, présentations PPT |
 
 ---
 
-## 📈 Statistiques GitHub
+# 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sodinyessi&show_icons=true&theme=tokyonight&hide_border=true" height="100" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sodinyessi&theme=tokyonight&hide_border=true" height="100" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sodinyessi&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sodinyessi&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodinyessi&layout=compact&theme=tokyonight&hide_border=true" height="100" />
+  🔧 *Les statistiques GitHub reflètent uniquement le code public.*  
+  <br>💻 *Mes langages de travail au quotidien : SAS · R · Python · SQL*
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SAS-blue?logo=sas&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white" height="25" />
 </p>
 
 ---
 
-## 🧪 Expériences professionnelles
-### 🔹 **INSERM – CERPOP - SaMBA (Toulouse, France) & ADERA (Bordeaux, France)**  
-**Biostatisticien – Ingénieur Data Scientist**  
-- Modélisation de la réponse clinique et virologique dans les cohortes IeDEA (Afrique de l'Ouest).  
-- Analyses de mortalité selon l'âge et trajectoires sous traitements antirétroviraux.  
-- Développement de pipelines d'analyse automatisés (SAS, R, Python).  
-- Production de SAP et livrables scientifiques pour équipes cliniques et chercheurs internationaux.  
-- ANRS - EPIKIDS : Modélisation de l'ampleur de l'épidémie du VIH pédiatrique et de la cascade de soins.
+# 🚀 **Projets Biostatistiques - Data Science - Mathématiques**  
 
-### 🔹 **ANSES (Ploufragan, France)**  
-**Chargé d'études statistiques**  
-- Analyses typologiques multidimensionnelles sur les systèmes d'élevage porcins.  
-- Classification non supervisée (CAH, k-means) et intégration multiblocs.  
-- Reporting automatisé avec R Markdown et visualisations scientifiques.
+---
 
-### 🔹 **Hôpital de la Zone d'Allada (Bénin)**  
+## 🔷 **Merger 9 : Harmonisation des cohortes IeDEA & APIN (15 sites, Afrique de l’Ouest)**  
+📌 *Standardisation et caractérisation multi-pays.*  
+**R • RMarkdown • Kaplan-Meier • Cox**
+
+- Harmonisation et contrôle qualité complet des 11 bases (formats, extrêmes, duplications).  
+- Pipeline RMarkdown entièrement reproductible.  
+- Estimation de survie (KM) et modèle de Cox pour décès, LTFU, transfert.
+
+- ---
+
+## 🔷 **MR202 : Différences de mortalité (PHIV vs NPHIV) chez les 10–24 ans**  
+**SAS • R • incidence (Cohen) • Poisson/Quasi-Poisson**
+
+Première estimation robuste des différences de mortalité multi-régions.
+ 
+
+---
+
+## 🔷 **MR254 : Réponse clinique & virologique aux schémas DTG (0–19 ans)**  
+📌 *Analyse multirégionale* [IeDEA Global].*  
+**SAS • R • Sankey • flexmix • randomLCA • multinomial models**
+
+- SAS : nettoyage, gestion des valeurs manquantes, préparation standardisée.  
+- R : analyses complètes, classification latente (GBTM), Sankey, modèles multinomiaux.  
+- PPT : figures, tableaux, visualisations.  
+
+---
+
+## 🔷 **TRV pediatric West Africa : Évolution virologique 24 mois post-DTG**  
+**SAS • R • GBTM • Sankey**
+
+Analyses complètes de trajectoires virales post-initiation DTG sur 24 mois.
+
+---
+
+## 🔷 **MR91 : Événements WHO-4 & progression immunitaire (0–24 ans)**  
+**SAS • R • CD4-age trajectories • reporting**
+
+Reproduction R des analyses SAS, QC, visualisations, tables décisionnelles.
+
+---
+
+## 🔷 **MR90 : Mortalité selon l’âge, CD4 et OMS-3/4 (0–24 ans)**  
+**SAS • R • Excel/PPT**
+
+Analyse temporelle multi-régions des taux de mortalité pré/post ARV.
+
+---
+
+## 🔷 **MR256 : Croissance & DTG (0–19 ans)**  
+**R • modèles mixtes lme4**
+
+Effet du DTG sur les trajectoires de croissance : poids, taille, z-scores.
+
+---
+
+## 🔷 **Planification des besoins en antirétroviraux pédiatriques – Côte d’Ivoire (2024–2029)**  
+📌 *Projection nationale des besoins ARV pédiatriques [DTG 100%].*  
+**R • Python • Shiny • Modèles CEPAC/SPECTRUM**
+
+- Développement d’une **application RShiny** nationale pour simuler les besoins 2024–2029.  
+- Intégration Python des modèles **CEPAC** et **SPECTRUM**.  
+- Debuggage complet du modèle DTG 100% et **mise à jour avec les nouvelles données PNLS**.  
+
+📈 *Impact : outil stratégique pour la planification nationale des ARV pédiatriques.*
+
+---
+
+## 🔷 **Typologie des élevages porcins (ANSES)**  
+**R • ACP • AFC • AFDM • CAH • k-means • multi-blocs**
+
+Classification complète des élevages alternatifs selon bien-être & santé publique.
+
+---
+
+## 🔷 **Prévision de volatilité via modèles (G)ARCH**  
+**R • AR • MA • ARMA • ARCH • GARCH**
+
+Modélisation avancée de volatilité & prévisions.
+
+---
+
+### 🔷 **Hôpital de la Zone d'Allada (Bénin)**  
 **Responsable de données & Statisticien**
 - Extraction, structuration et suivi de données DHIS2.  
 - Mise en place de tableaux de bord et indicateurs de performance.  
 
-### 🔹 **Ministère de l'Enseignement Secondaire et de la Formation Technique (Bénin)**  
+---
+### 🔷 **Ministère de l'Enseignement Secondaire et de la Formation Technique (Bénin)**  
 **Professeur de Mathématiques**  
 - 📚 Enseignement des mathématiques à différents niveaux (2nde D, 1ère D, Terminale D, 3e MC, 4e).  
 - 🧠 Pédagogie différenciée, vulgarisation de concepts abstraits et transmission claire de raisonnements complexes.  
@@ -94,38 +174,48 @@ Santé Publique – Recherche Clinique – Données de cohorte, observationelles
 
 ---
 
-## 🎓 Formations & Certifications
+## 🔷 **EPIKIDS : Modélisation de l'ampleur de l'épidémie du VIH pédiatrique et de la cascade de soins pour optimiser les politiques de santé en Côte d'Ivoire - au Cameroun et au Togo**  
+**R • Python • SAP • models • HIV • Côte d'Ivoire**
 
-🎓 **Master Mathématiques et Applications – Statistique** – *Université de Strasbourg*  
-🎓 **Master Probabilités et Statistique** – *Université d'Abomey-Calavi – IMSP (Bénin)*  
-🎓 **Licence Mathématiques et Informatique** – *ENS Natitingou (Bénin)*  
-
-🎖️ **Python Scientifique** – Analyse de données génomiques et d'images  
-🎖️ **R avancé et Modèles de Machine Learning** – Pipelines analytiques reproductibles  
-🎖️ **SAS : de l'analyse à la production du rapport** – Procédures, SQL, macros, ODS  
+Modélisation & prévisions.
 
 ---
 
-## 🌍 Langues
-- 🇫🇷 **Français** – Langue maternelle  
-- 🇬🇧 **Anglais** – Niveau intermédiaire (lecture scientifique, rédaction technique)
+# 📁 **GitHub Projects**
+
+<p align="center">
+
+<a href="https://github.com/Sodinyessi">
+  <img src="https://img.shields.io/badge/🧪_Voir_mes_projets-1976D2?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Sodinyessi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sodinyessi&repo=emile.sodinyessi&theme=tokyonight&hide_border=true" height="120"/>
+</a>
+
+</p>
 
 ---
 
-## 💬 Valeurs & philosophie
-> _"La statistique est la grammaire de la science." — Karl Pearson_  
-> _"Les données racontent le monde, il suffit de savoir les écouter." — Hans Rosling_  
-> _"Les données ne sont pas que des chiffres ; elles racontent une histoire qu'il faut interpréter." — Cathy O'Neil_
+# 🌍 Langues  
+- 🇫🇷 Français — natif  
+- 🇬🇧 Anglais — intermédiaire (analyse & rédaction scientifique)
 
 ---
-<h3 align="center">
-⭐️ Intéressé par une collaboration ?
-</h3>
 
-  Je suis ouvert aux projets en Biostatistique, Recherche clinique en Data Science et Mathématiques.📩 [Contactez-moi](mailto:emilesodin@gmail.com)
+# 💬 Valeurs  
+> *"La statistique est la grammaire de la science." — Karl Pearson*  
+> *"Les données racontent le monde." — Hans Rosling*  
 
+---
 
+<h3 align="center">⭐️ Intéressé par une collaboration ? Contactez-moi.</h3>
 
+<p align="center">
+<a href="mailto:emilesodin@gmail.com">📧 emilesodin@gmail.com</a> • 📞 +33 6 44 05 80 18
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1976D2,100:42A5F5&height=120&section=footer" />
