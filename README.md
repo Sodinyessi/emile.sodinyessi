@@ -77,7 +77,7 @@ Santé Publique – Recherche Clinique – Cohortes – Données Observationnell
 
 ---
 
-## 🔷 **Merger 9 : Harmonisation des cohortes IeDEA & APIN (15 sites, Afrique de l’Ouest)**  
+## 🔷 **Merger : Harmonisation des cohortes IeDEA & APIN (15 sites, Afrique de l’Ouest)**  
 📌 *Standardisation et caractérisation multi-pays.*  
 **R • RMarkdown • Kaplan-Meier • Cox**
 
@@ -161,8 +161,8 @@ Modélisation avancée de volatilité & prévisions.
 
 ### 🔷 **Hôpital de la Zone d'Allada (Bénin)**  
 **Responsable de données & Statisticien**
-- Extraction, structuration et suivi de données DHIS2.  
-- Mise en place de tableaux de bord et indicateurs de performance.  
+- Définir la méthodologique, les critères d'évaluation, les tests d'hypothèses statistiques.
+- Extraire, transformer, organiser, et structurer les données à partir du système DHIS2
 
 ---
 ### 🔷 **Ministère de l'Enseignement Secondaire et de la Formation Technique (Bénin)**  
@@ -201,7 +201,7 @@ Modélisation & prévisions.
 
 # 🌍 Langues  
 - 🇫🇷 Français — natif  
-- 🇬🇧 Anglais — intermédiaire (analyse & rédaction scientifique)
+- 🇬🇧 Anglais — intermédiaire (Niveau Intermédiaire & rédaction scientifique)
 
 ---
 
