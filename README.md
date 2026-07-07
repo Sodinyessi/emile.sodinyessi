@@ -33,7 +33,7 @@ Santé Publique – Recherche Clinique – Cohortes – Données Observationnell
 ---
 
 # 🧠 Domaines d’intérêt
-- 📈 **Modélisation avancée** : régressions, survie, modèles mixtes, classification latente (flexmix, randomLCA), GBTM  
+- 📈 **Modélisation avancée** : régressions, survie, modèles mixtes, classification latente (flexmix, randomLCA), GBTM, modèles ML. 
 - 🧪 **Données observationnelles** & cohortes longitudinales  
 - ⚙️ **Pipelines reproductibles** : SAS • R • Python • SQL  
 - 📊 **Visualisations & reporting** : R Markdown, Shiny, LaTeX  
@@ -115,7 +115,7 @@ Analyses complètes de trajectoires virales post-initiation DTG sur 24 mois.
 ## 🔷 **MR91 : Événements WHO-4 & progression immunitaire (0–24 ans)**  
 **SAS • R • CD4-age trajectories • reporting**
 
-Reproduction R des analyses SAS, QC, visualisations, tables décisionnelles.
+Reproduction R des analyses SAS, visualisations, tables décisionnelles.
 
 ---
 
@@ -152,7 +152,7 @@ Classification complète des élevages alternatifs selon bien-être & santé pub
 
 ---
 
-## 🔷 **Prévision de volatilité via modèles (G)ARCH**  
+## 🔷 ** Estimation et Prévision de volatilité à l'aide des modèles (G)ARCH**  
 **R • AR • MA • ARMA • ARCH • GARCH**
 
 Modélisation avancée de volatilité & prévisions.
@@ -201,7 +201,7 @@ Modélisation & prévisions.
 
 # 🌍 Langues  
 - 🇫🇷 Français — natif  
-- 🇬🇧 Anglais — intermédiaire (Niveau Intermédiaire & rédaction scientifique)
+- 🇬🇧 Anglais  — intermédiaire (rédaction scientifique)
 
 ---
 
