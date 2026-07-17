@@ -8,9 +8,10 @@ README.md — Portfolio GitHub d'Emile Sodinyessi
 </p>
 
 <h3 align="center">
-Biostatisticien & Ingénieur Data Scientist  
+Biostatisticien & Ingénieur DataScientist  
 <br>
-Santé Publique – Recherche Clinique – Cohortes – Données Observationnelles
+
+*BioStatistique - Mathématiques - Santé Publique – Recherche Clinique – Cohortes – Données Observationnelles*
 </h3>
 
 <p align="center">
@@ -24,11 +25,14 @@ Santé Publique – Recherche Clinique – Cohortes – Données Observationnell
 
 # 🧭 À propos de moi  
 
-💡 Passionné par la donnée au service de la santé, je suis **biostatisticien et ingénieur data scientist** spécialisé dans la **modélisation statistique avancée**, les **cohortes internationales** et la **valorisation de données de santé en général**.
+💡 Passionné par la donnée au service de la santé, je suis **biostatisticien et ingénieur data scientist** spécialisé dans la **modélisation statistique avancée**, 
+                         les **cohortes internationales** et la **valorisation de données de santé en général**.
 
-📊 Mon expertise se situe à la croisée de la **statistique**, de la **programmation** et de la **santé publique**, avec une approche **rigoureuse**, **reproductible**, **transparente** et orientée **impact sanitaire**.
+📊 Mon expertise se situe à la croisée de la **statistique**, de la **programmation** et de la **santé publique**, avec une approche **rigoureuse**, **reproductible**,
+                                         **transparente** et orientée **impact sanitaire**.
 
-🎯 J’aide les équipes cliniques, chercheurs et institutions à transformer des données complexes en **informations exploitables**, **indicateurs stratégiques**, et **évidence scientifique robuste**.
+🎯 J’aide les équipes cliniques, chercheurs et institutions à transformer des données complexes en **informations exploitables**, **indicateurs stratégiques**,    et 
+                                                 **évidence scientifique robuste**.
 
 ---
 
@@ -79,15 +83,17 @@ Santé Publique – Recherche Clinique – Cohortes – Données Observationnell
 
 ## 🔷 **Merger : Harmonisation des cohortes IeDEA & APIN (15 sites, Afrique de l’Ouest)**  
 📌 *Standardisation et caractérisation multi-pays.*  
-**R • RMarkdown • Kaplan-Meier • Cox**
+**SAS • R • RMarkdown • Kaplan-Meier • Cox**
 
+- Mise en oeuvre d'une application web avec RShiny pour l'exploration complète et analyse de survie des patients vivants
+          avec le VIH de la cohorte IeDEA AFRIQUE de L'OUEST.
 - Harmonisation et contrôle qualité complet des 11 bases (formats, extrêmes, duplications).  
 - Pipeline RMarkdown entièrement reproductible.  
 - Estimation de survie (KM) et modèle de Cox pour décès, LTFU, transfert.
 
 - ---
 
-## 🔷 **MR202 : Différences de mortalité (PHIV vs NPHIV) chez les 10–24 ans**  
+## 🔷 **MultiRegional project 202 : Différences de mortalité (PHIV vs NPHIV) chez les 10–24 ans**  
 **SAS • R • incidence (Cohen) • Poisson/Quasi-Poisson**
 
 Première estimation robuste des différences de mortalité multi-régions.
@@ -95,7 +101,7 @@ Première estimation robuste des différences de mortalité multi-régions.
 
 ---
 
-## 🔷 **MR254 : Réponse clinique & virologique aux schémas DTG (0–19 ans)**  
+## 🔷 **MultiRegional project 254 : Réponse clinique & virologique aux schémas DTG (0–19 ans)**  
 📌 *Analyse multirégionale* [IeDEA Global].*  
 **SAS • R • Sankey • flexmix • randomLCA • multinomial models**
 
@@ -105,28 +111,28 @@ Première estimation robuste des différences de mortalité multi-régions.
 
 ---
 
-## 🔷 **TRV pediatric West Africa : Évolution virologique 24 mois post-DTG**  
-**SAS • R • GBTM • Sankey**
+## 🔷 **Trajectoires de la réponse virologique - IeDEA pWADA : 24 mois post-DTG**  
+**SAS • R • GBTM • FlexMix • lcmm • Sankey**
 
 Analyses complètes de trajectoires virales post-initiation DTG sur 24 mois.
 
 ---
 
-## 🔷 **MR91 : Événements WHO-4 & progression immunitaire (0–24 ans)**  
+## 🔷 **MultiRegional project 91 : Événements WHO-4 & progression immunitaire (0–24 ans)**  
 **SAS • R • CD4-age trajectories • reporting**
 
 Reproduction R des analyses SAS, visualisations, tables décisionnelles.
 
 ---
 
-## 🔷 **MR90 : Mortalité selon l’âge, CD4 et OMS-3/4 (0–24 ans)**  
+## 🔷 **MultiRegional project 90 : Mortalité selon l’âge, CD4 et OMS-3/4 (0–24 ans)**  
 **SAS • R • Excel/PPT**
 
 Analyse temporelle multi-régions des taux de mortalité pré/post ARV.
 
 ---
 
-## 🔷 **MR256 : Croissance & DTG (0–19 ans)**  
+## 🔷 **MultiRegional project 256 : Croissance & DTG (0–19 ans)**  
 **R • modèles mixtes lme4**
 
 Effet du DTG sur les trajectoires de croissance : poids, taille, z-scores.
